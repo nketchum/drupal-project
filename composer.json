@@ -1,5 +1,5 @@
 {
-    "name": "drupal-composer/drupal-project",
+    "name": "nketchum/drupal-project",
     "description": "Project template for Drupal 8 projects with composer",
     "type": "project",
     "license": "GPL-2.0+",
@@ -21,7 +21,17 @@
         "cweagans/composer-patches": "~1.0",
         "drupal/core": "~8.0",
         "drush/drush": "~8.0",
-        "drupal/console": "~1.0"
+        "drupal/console": "~1.0",
+        "drupal/admin_toolbar": "~8.1",
+        "drupal/bootstrap": "~8.3",
+        "drupal/ctools": "~8.3",
+        "drupal/devel": "~8.1",
+        "drupal/ds": "~8.2-dev",
+        "drupal/field_group": "~8.1",
+        "drupal/inline_entity_form": "~8.1",
+        "drupal/page_manager": "~8.1",
+        "drupal/pathauto": "~8.1",
+        "drupal/token": "~8.1"
     },
     "require-dev": {
         "behat/mink": "~1.7",
