@@ -24,9 +24,8 @@
         "drupal/console": "~1.0",
         "drupal/core": "~8.1",
         "drupal/devel": "~8.1",
-        "drupal/examples": "8.x-1.x-dev",
-        "drush/drush": "~9.0",
-        "drush/jdrupal": "~8.1"
+        "drupal/jdrupal": "~8.1",
+        "drush/drush": "~9.0"
     },
     "require-dev": {
         "behat/mink": "~1.7",
