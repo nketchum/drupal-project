@@ -86,5 +86,6 @@
                 "The batch table may not exist by the time _drush_backend_batch_process() is called in 8.x-1.x":
                 "https://github.com/drush-ops/drush/commit/c389aebb7d3e26ff0f544684d8b3ec3528107e55.diff"
             }
+        }
     }
 }
