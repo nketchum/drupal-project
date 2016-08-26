@@ -23,6 +23,7 @@
         "drupal/config_update": "~8.1",
         "drupal/console": "~1.0",
         "drupal/core": "~8.1",
+        "drupal/cors": "~8.1",
         "drupal/devel": "~8.1",
         "drupal/jdrupal": "~8.1",
         "drush/drush": "~9.0"
