@@ -20,13 +20,11 @@
         "cweagans/composer-patches": "~1.0",
         "drupal-composer/drupal-scaffold": "^2.0.1",
         "drupal/admin_toolbar": "~8.1",
-        "drupal/bootstrap": "~8.3",
         "drupal/config_update": "~8.1",
         "drupal/console": "~1.0",
         "drupal/core": "~8.1",
         "drupal/devel": "~8.1",
-        "drupal/examples": "8.x-1.x-dev",
-        "drupal/pathauto": "~8.1",
+        "drupal/drupalgap": "~8.1",
         "drush/drush": "~9.0"
     },
     "require-dev": {
